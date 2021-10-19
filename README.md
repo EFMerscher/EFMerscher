@@ -14,7 +14,7 @@
   <img align="right" alt="Ed-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/894008890725896274/894008958703001610/download20211006195600.png">
 </div>
  
-## 
+##  
   
 <div> 
   <a href="https://www.instagram.com/ed_zera/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
