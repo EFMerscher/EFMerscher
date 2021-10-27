@@ -23,13 +23,13 @@ Estudante de Desenvolvimento de Desenvolvimento Web Full Stack, voltado a JavaSc
   - Xadrez;
   - Reading books;
   - FPS Games;
-  <hr>
 
+<hr>
 
-<div align="center">
+<div>
   <a href="https://github.com/EFMerscher">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=EFMerscher&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EFMerscher&layout=compact&langs_count=7&theme=github_dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EFMerscher&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EFMerscher&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
     
 <div style="display: inline_block"><br>
