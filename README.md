@@ -23,11 +23,10 @@ Estudante de Desenvolvimento de Desenvolvimento Web Full Stack, voltado a JavaSc
 </p>
 <hr/>
 
-**Meus hobbies são:**
-  - Estudar sobre hacking e Lockpick; 
-  - Jogar xadrez;
-  - Ler livros;
-  - Jogar Mobas em geral;
+**My hobbies:**
+  - Xadrez;
+  - Reading books;
+  - FPS Games;
   <hr>
 
 
