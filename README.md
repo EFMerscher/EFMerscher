@@ -7,8 +7,9 @@
   <a><img src="https://readme-typing-svg.herokuapp.com?color=%23200EF7&size=40&vCenter=true&width=600&height=40&lines=Full+Stack+Web+Developer;Always+learning+new+things"></a>
 </p>
 
+<hr>
 Me chamo <b>Edevaldo Merscher</b>. Sou estudante de Desenvolvimento Web Full Stack, voltado a JavaScript, React, Node, CSS3, HTML5 e C#. Além da formação na área de programação, sou entusiasta no Mercado de Capitais, onde invisto pela B3 desde os meus 18 anos.
-
+</hr>
 
 <hr>
 
