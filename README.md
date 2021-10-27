@@ -1,3 +1,29 @@
+<h3 align="center">
+  Welcome to Jonah Lawrence's profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23200EF7&center=true&vCenter=true&lines=Full+Stack+Web+Developer;Always+learning+new+things)
+</a>
+<a href="https://www.linkedin.com/in/EFMerscher/" target="_blank">
+  <img align="right" src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
+</a>
+<br/>
+<p align="left" >
+  <hr>
+Me chamo <b>Josué Lobo</b>.
+</p>
+<p align="left" >
+Atualmente moro em Ananindeua/PA-BR.<br />
+
+Sou apaixonado por tecnologia, hacking e desenvolvimento para contribuir com uma melhor interação digital. Trabalho e acredito em ações que possam gerar
+um impacto positivo na vida das pessoas.
+ </div>
+</p>
+<hr/>
+
+
+
 <div align="center">
   <a href="https://github.com/EFMerscher">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=EFMerscher&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
