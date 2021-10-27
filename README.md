@@ -11,13 +11,12 @@
 <br/>
 <p align="left" >
   <hr>
-Me chamo <b>Josué Lobo</b>.
+Me chamo <b>Edevaldo Merscher</b>.
 </p>
 <p align="left" >
-Atualmente moro em Ananindeua/PA-BR.<br />
+Atualmente moro em Guarapari/ES-BR.<br />
 
-Sou apaixonado por tecnologia, hacking e desenvolvimento para contribuir com uma melhor interação digital. Trabalho e acredito em ações que possam gerar
-um impacto positivo na vida das pessoas.
+Estudante de Desenvolvimento de Desenvolvimento Web Full Stack, voltado a JavaScript, React, Node, CSS3, HTML5 e C#. Além da formação na área de programação, sou entusiasta no Mercado de Capitais, onde invisto pela B3 desde os meus 18 anos.
  </div>
 </p>
 <hr/>
