@@ -8,15 +8,9 @@
 </p>
 
 <p align="left" >
-  <hr>
-Me chamo <b>Edevaldo Merscher</b>.
-</p>
-<p align="left" >
-Atualmente moro em Guarapari/ES-BR.<br />
 
-Estudante de Desenvolvimento de Desenvolvimento Web Full Stack, voltado a JavaScript, React, Node, CSS3, HTML5 e C#. Além da formação na área de programação, sou entusiasta no Mercado de Capitais, onde invisto pela B3 desde os meus 18 anos.
- </div>
-</p>
+<hr>
+Me chamo <b>Edevaldo Merscher</b>. Sou estudante de Desenvolvimento de Desenvolvimento Web Full Stack, voltado a JavaScript, React, Node, CSS3, HTML5 e C#. Além da formação na área de programação, sou entusiasta no Mercado de Capitais, onde invisto pela B3 desde os meus 18 anos.
 <hr/>
 
 **My hobbies:**
