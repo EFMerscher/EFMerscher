@@ -6,10 +6,6 @@
 <p align="center">
   <a><img src="https://readme-typing-svg.herokuapp.com?color=%23200EF7&size=28&center=true&vCenter=true&height=30&lines=Full+Stack+Web+Developer;Always+learning+new+things"></a>
 </p>
-
-<a href="https://www.linkedin.com/in/EFMerscher/" target="_blank">
-  <img align="right" src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
-</a>
 <br/>
 <p align="left" >
   <hr>
