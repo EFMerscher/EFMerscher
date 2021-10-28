@@ -24,10 +24,8 @@ Me chamo <b>Edevaldo Merscher</b>. Sou estudante de Desenvolvimento Web Full Sta
 
 <div>
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EFMerscher&show_icons=true&theme=radical&include_all_commits=true&count_private=true">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EFMerscher&layout=compact&langs_count=7&theme=radical">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EFMerscher&layout=compact&langs_count=7&theme=radical">
 </div>
-
-<hr>
     
 <div style="display: inline_block"><br>
   <img align="center" alt="Ed-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
