@@ -14,10 +14,11 @@ Me chamo <b>Edevaldo Merscher</b>. Sou estudante de Desenvolvimento Web Full Sta
 <hr>
 
 **My hobbies:**
-  - Xadrez;
   - Reading books;
+  - Go running;
   - FPS Games;
- 
+  - Xadrez;
+
 <hr/>
 
 
