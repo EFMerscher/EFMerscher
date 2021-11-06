@@ -3,7 +3,6 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 
-
 <p align="center">
   <a><img src="https://readme-typing-svg.herokuapp.com?color=%23200EF7&size=40&vCenter=true&width=600&height=40&lines=Full+Stack+Web+Developer;Always+learning+new+things"></a>
 </p>
@@ -13,15 +12,12 @@ Me chamo <b>Edevaldo Merscher</b>. Sou estudante de Desenvolvimento Web Full Sta
 </hr>
 
 <hr>
-
 **My hobbies:**
   - Reading books;
   - Go running;
   - FPS Games;
   - Xadrez;
-
 <hr/>
-
 
 <div>
  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=EFMerscher&show_icons=true&theme=radical&include_all_commits=true&count_private=true">
