@@ -10,7 +10,6 @@
 <hr>
 Me chamo <b>Edevaldo Merscher</b>. Sou estudante de Desenvolvimento Web Full Stack, voltado a JavaScript, React, Node, CSS3, HTML5 e C#. Além da formação na área de programação, sou entusiasta no Mercado de Capitais, onde invisto pela B3 desde os meus 18 anos.
 </hr>
-
 <hr>
 **My hobbies:**
   - Reading books;
