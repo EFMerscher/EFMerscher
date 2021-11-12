@@ -17,7 +17,7 @@ Me chamo <b>Edevaldo Merscher</b>. Sou estudante de Desenvolvimento Web Full Sta
   - Go running;
   - FPS Games;
   - Xadrez;
-<hr/>
+</hr>
 
 <div>
  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=EFMerscher&show_icons=true&theme=radical&include_all_commits=true&count_private=true">
