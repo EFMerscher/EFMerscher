@@ -61,9 +61,6 @@
    <code><img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"></code>
   </a>
    </a>
-  <a href="https://sequelize.org/" target="_blank">
-   <code><img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg"></code>
-  </a>
   <a href="https://expressjs.com/pt-br/" target="_blank">
    <code><img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"></code>
   </a>
@@ -77,9 +74,6 @@
   <a href="https://jestjs.io/docs/getting-started" target="_blank">
    <code><img height="50px" src="https://pics.freeicons.io/uploads/icons/png/5894313931548218185-512.png"></code>
   </a>
-  <a href="https://mochajs.org/" target="_blank">
-   <code><img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg"></code>
- </a>
 </p>
 
 ---
@@ -90,7 +84,7 @@
   <a href="https://git-scm.com/doc" target="_blank">
    <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></code>
   </a>
-  <a href="https://github.com/denis-rossati" target="_blank">
+  <a href="https://github.com/efmerscher" target="_blank">
    <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"></code> 
   </a>
 </p>
