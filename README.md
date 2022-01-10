@@ -10,6 +10,7 @@
 - 🎯 My next goal is learn C#!!!
 - Enthusiast in the capital market.
 - 
+- 
 
 ---
 
