@@ -22,6 +22,9 @@
   <a href="https://devdocs.io/javascript/" target="_blank">
    <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
   </a>
+    <a href="" target="_blank">
+   <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c#/c#-original.svg"></code>
+  </a>
 </p>
 
 ---
