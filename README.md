@@ -9,6 +9,8 @@
 - 👨‍💻 Looking to be a great developer to help those who I sympathize.
 - 🎯 My next goal is learn C#!!!
 - Enthusiast in the capital market.
+- 
+- 
 
 ---
 
