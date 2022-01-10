@@ -15,7 +15,6 @@
 
 ## <p align="center">Tools</p>
 
-<p align="center">I've studied / used the following in projects::</p>
 
 ### Programming Languages
 
