@@ -87,6 +87,9 @@
   <a href="https://github.com/efmerscher" target="_blank">
    <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"></code> 
   </a>
+  <a href="" target="_blank">
+    <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"</code>
+  </a>
 </p>
 
 ---
