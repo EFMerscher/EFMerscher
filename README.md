@@ -90,12 +90,6 @@
   <a href="https://github.com/denis-rossati" target="_blank">
    <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"></code> 
   </a>
-  <a href="https://www.typescriptlang.org/" target="_blank">
-   <code><img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"></code>
-  </a>
-  <a href="https://www.heroku.com/" target="_blank" >
-   <code><img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg"></code>
-  </a>
 </p>
 
 ---
