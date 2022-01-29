@@ -8,8 +8,8 @@
 - 💼 My hobbies are playing chess, running, watching anime and reading.
 - 👨‍💻 Looking to be a great developer to help those who I sympathize.
 - 🎯 My next goal is learn C#!!!
-- 🎯 Enthusiast in the capital market.
-- 🎯 Native of Brazil
+- :chart_with_upwards_trend: Enthusiast in the capital market.
+- :brazil: Native of Brazil
 - :monkey: Monkey lover
 
 ---
