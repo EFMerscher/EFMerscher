@@ -93,7 +93,7 @@
 ---
 
 
-## <p align="center">Contact me :D</p>
+## <p align="center">Contats</p>
 
 <p align="center">
  <a href="https://www.linkedin.com/in/efmerscher/" target="_blank" >
