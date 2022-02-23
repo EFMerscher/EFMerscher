@@ -1,4 +1,4 @@
-## <p align="center">A little about me</p>
+## <p align="center">About me</p>
 
 <img src="https://thumbs.gfycat.com/MeagerLonelyBluebreastedkookaburra-max-1mb.gif" align="right" alt="GIF" height="220px">
 
