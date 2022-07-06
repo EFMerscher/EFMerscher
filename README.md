@@ -3,7 +3,7 @@
 <img src="https://thumbs.gfycat.com/MeagerLonelyBluebreastedkookaburra-max-1mb.gif" align="right" alt="GIF" height="220px">
 
 <br>
-  
+
 - 📚 Currently studying web development at Trybe.
 - 💼 My hobbies are playing chess, running, watching anime and reading.
 - 👨‍💻 Looking to be a great developer to help those who I sympathize.
