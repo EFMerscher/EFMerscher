@@ -10,7 +10,7 @@
 - 🎯 My next goal is learn C#!!!
 - :chart_with_upwards_trend: Enthusiast in the capital market.
 - :brazil: Native of Brazil
-- :monkey: Monkey lover
+- :monkey: Love monkeys
 
 ---
 
