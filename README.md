@@ -4,7 +4,7 @@
 
 <br>
 
-- 📚 Currently studying web development at Trybe.
+- 📚 Currently studying web development.
 - 💼 My hobbies are playing chess, running, watching anime and reading.
 - 👨‍💻 Looking to be a great developer.
 - 🎯 My next goal is learn C#!!!
